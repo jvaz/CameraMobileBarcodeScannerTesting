@@ -55,4 +55,3 @@ To modify or enhance the application:
 
 ## Credits
 - QuaggaJS Library: https://github.com/serratus/quaggajs
-- Celfocus Logo and Branding 
