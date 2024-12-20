@@ -3,7 +3,7 @@
 ## Overview
 This is a web-based barcode scanner application that uses the device's camera to scan various types of barcodes in real-time. Built using QuaggaJS, this application provides a simple and intuitive interface for barcode scanning directly from a web browser.
 
-You can try it at https://jvaz.github.io/CameraMobileBarcodeScannerTesting/CameraMobileTest.html
+You can try it at https://jvaz.github.io/CameraMobileBarcodeScannerTesting
 
 ## Features
 - Real-time barcode scanning using device camera
@@ -53,7 +53,7 @@ To modify or enhance the application:
 3. Test thoroughly on various devices and browsers
 
 ## License
-[Add your license information here]
+MIT License
 
 ## Credits
 - QuaggaJS Library: https://github.com/serratus/quaggajs
